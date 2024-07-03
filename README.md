@@ -1,5 +1,7 @@
 # 🎨 Vercel
 
+![Terminal screenshot](./screenshot.webp)
+
 Neovim clone of [vscode theme](https://github.com/triyanox/vercel-theme).
 Initially converted via [djanho](https://github.com/arcticlimer/djanho) + some of my tweaks.
 
