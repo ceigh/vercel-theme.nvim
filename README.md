@@ -20,12 +20,6 @@ return {
 }
 ```
 
-## Development
-
-```sh
-bunx simple-git-hooks
-```
-
 ## Disclaimer
 
 This theme is inspired by [Vercel](https://vercel.com) and I don't have any relevant experience building themes, so you may encounter some bugs. If you do, please open an issue, and I'll try to fix it as soon as possible.
